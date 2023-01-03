@@ -25,7 +25,6 @@ index,id,title,type,release_year,age_certification,runtime,genres,production_cou
 23,tm14350,Alexandria… Why?,MOVIE,1979,,133,['drama'],US,,tt0077751,7.2,1689
 24,tm102287,Raya and Sakina,MOVIE,1953,,105,"['drama', 'thriller', 'crime', 'history']",GB,,tt0316472,6.8,231
 25,tm76557,No Longer Kids,MOVIE,1979,,235,"['comedy', 'drama']",GB,,tt8312792,9,943
-26,tm71909,Amrapali,MOVIE,1966,,120,['fantasy'],US,,tt0060104,6.7,225
 27,tm94651,Dostana,MOVIE,1980,,161,"['drama', 'comedy', 'romance', 'action', 'crime']",GB,,tt0080653,2.1,25
 28,tm19608,The Blazing Sun,MOVIE,1954,,100,"['romance', 'crime', 'drama']",US,,tt0044429,7.4,1219
 29,ts45948,Monty Python's Fliegender Zirkus,SHOW,1972,TV-MA,43,['comedy'],US,1,tt0202477,8.1,2144
